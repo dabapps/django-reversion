@@ -58,3 +58,7 @@ Contributors
 
 The django-reversion project was developed by `Dave Hall <http://www.etianen.com/>`_ and contributed
 to by `many other people <https://github.com/etianen/django-reversion/graphs/contributors>`_.
+
+## Code of conduct
+
+For guidelines regarding the code of conduct when contributing to this repository please review [https://www.dabapps.com/open-source/code-of-conduct/](https://www.dabapps.com/open-source/code-of-conduct/)
